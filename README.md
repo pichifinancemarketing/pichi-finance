@@ -16,7 +16,7 @@ The JSON file includes details for multiple objects (PT, YT, LP), each correspon
 
 #### Asset fields
  - chainId: chainId of the integrated assets
- - address: Market address of the integrated assets
+ - address: Address of the integrated assets
  - integrationUrl: Link to the page that integrated the asset
  - description: Description of the asset
 
