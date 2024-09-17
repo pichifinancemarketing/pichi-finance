@@ -2,7 +2,7 @@
   "protocols": [
     {
       "id": "protocol-name-1",
-      "name": "Protocol Name 1",
+      "name": "Protocol Name 1 abc",
       "icon": "logo.svg",
       "metadata": {
         "pt": [
@@ -34,7 +34,7 @@
     },
     {
       "id": "protocol-name-2",
-      "name": "Protocol Name 2",
+      "name": "Protocol Name 2 abc",
       "icon": "logo.jpeg",
       "metadata": {
         "pt": [
