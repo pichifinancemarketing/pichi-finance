@@ -11,12 +11,12 @@ The JSON file includes details for multiple objects (PT, YT, LP), each correspon
 #### Protocols fields
 
  - name: The name of the protocol.
- - icon: The protocol’s logo.
+ - icon: The protocol’s logo. (circular log in PNG or SVG recommended)
  - metadata: This section contains detailed information about the protocol's integration assets.
 
 #### Asset fields
  - chainId: chainId of the integrated assets
- - address: Address of the integrated assets
+ - address: Address of the integrated assets (PT token address for PT integrations, LP token address for LP integration, etc)
  - integrationUrl: Link to the page that integrated the asset
  - description: Description of the asset
 
@@ -25,7 +25,7 @@ The JSON file includes details for multiple objects (PT, YT, LP), each correspon
 ```json
 {
   "name": "Protocol Name 2",
-  "icon": "logo.jpeg",
+  "icon": "logo.png",
   "metadata": {
     "pt": [
       {
@@ -59,7 +59,7 @@ The JSON file includes details for multiple objects (PT, YT, LP), each correspon
 
 To add a new protocol or update existing data:
 
-1. Clone this repository.
+1. Fork this repository.
 2. Add or update the JSON file with the new protocol information in the specified format.
 3. Submit a pull request for review.
 
