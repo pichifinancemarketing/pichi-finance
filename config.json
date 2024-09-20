@@ -2,7 +2,7 @@
   "protocols": [
     {
       "id": "beefy",
-      "name": "Contango",
+      "name": "Beefy",
       "icon": "logo.png",
       "metadata": {
         "pt": [],
