@@ -3,7 +3,7 @@
     {
       "id": "beefy",
       "name": "Contango",
-      "icon": "logo.svg",
+      "icon": "logo.png",
       "metadata": {
         "pt": [],
         "yt": [],
@@ -130,7 +130,7 @@
           }
         ]
       },
-      "hash": "fb1dff3bebb56295ac17316469ed3f08"
+      "hash": "8f088fee7361150dca206319c3e9c837"
     },
     {
       "id": "contango",
