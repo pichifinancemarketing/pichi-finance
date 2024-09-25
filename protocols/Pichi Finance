@@ -1,0 +1,16 @@
+{
+  "name": “Pichi Finance”,
+  "icon": "logo.png",
+  "metadata": {
+    "pt": [],
+    "yt": [      
+	{
+        "chainId": 1,
+        "address": "0x129e6B5DBC0Ecc12F9e486C5BC9cDF1a6A80bc6A",
+        "integrationUrl": “app.pichi.finance”,
+        "description": “Deposit YT into a Pichi Wallet to earn points that can be traded”
+      }
+     ],
+    "lp": []
+  }
+}
